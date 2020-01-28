@@ -1,0 +1,100 @@
+1.WHAT IS DATA?
+-->Data refers to facts and statistics collected together for reference and analysis
+
+2.CATEGORIES OF DATA
+-->1.Qualitative data(deals with characteristics and descriptors that cant be easily measured,but can be observed subjectively)
+        1.1 Nominal data:data with no order or ranking 
+        1.2 Ordinal data:data with an ordered series (like with customer id)
+        
+   2.Quantitative data(deals with numbers and things which can be measured)
+           2.1 Discrete data:can hold finite number of values(no of students in a class)
+           2.2 Continuous data:can hold infinite number of values(weight on a person)
+
+
+3.WHAT IS STATISTICS?
+-->area of applied mathematics concerned with the data collection,analysis,interpretation and presentation
+
+
+
+4.BASIC TERMINOLOGIES IN STATISTICS
+-->Population: collection of sset of indivisuals or ojects or events whose properties is to be analysed
+   Sample:subset of population
+
+
+5.SAMPLING TECHNIQUES
+-->1.probability
+        1.1 random:each member of population has an equal chance to be selected for sample
+        1.2 systematic:every nth record is choose from the population to be part of the sample
+        1.3 stratified:it divide the population in different parts according to its patterns and select from those patterns(eg on the basis of gender)
+        
+   2.non-probability
+       2.1 snowball
+       2.2 quota
+       2.3 judgement
+       2.4 convenience
+
+
+6.TYPES OF STATISTICS(advance)
+-->1.Descriptive
+   2.inferential
+
+
+7.DESCRIPTIVE STATISTICS(on a sample)
+-->it focus on characteristics of data.it provides graphical sample data
+    7.1 measures of central tendency:
+        7.1.1 mean
+        7.1.2 median: center or middle value of data (even and odd)
+        7.1.3 mode
+        
+    7.2 measures of variability(spread):
+        7.2.1 Range:max - min
+        7.2.2 inter Quartile range:(quartile break data in quarters) q3 - q1
+        7.2.3 variance:how much the random variable differs from its expected value.
+        7.2.4 standard deviation:(deviation is the difference between each element froom the mean)(std. deviation is the measure of dispersio of a set of data from the mean)
+
+8.PROBABILITY
+-->
+
+
+9.INFERETIAL STATISTICS(uses sample data to predict for the large population)
+-->
+10INFORMATION GAIN AND ENTROPY
+-->ENTROPY: measure of uncertainity in dataset
+   INFORMATION GAIN: indicates how much information a particular feature/variable give us about the final outcome
+11 USE CASE
+-->pblm:wheather forcast for game to be played
+
+12 CONFUSION MATRIX
+-->IT is used in classification model to describe its performance
+   NO YES
+ NO
+ YES
+ 
+13 PROBABILITY
+--> it is mathematical model used in statistics.
+    RANDOM EXPERIMENT: An experiment or process for which the outcome can not be predicted with certainty
+    SAMPLE SPACE: entire possible set of outcome of a random experiment 
+    EVENT: one or more outcome of an experiment,subset of sample space
+    
+    eg rolling a dice and getting even no
+       random experiment: rolling a dice
+       set of all possible outcome: sample space
+       gettting even no : event
+14 TYPES OF EVENT:
+        1.DISJOINT
+        2.NON-DISJOINT
+        
+ 15 PROBABILITY DISTRIBUTION
+        15.1 PROBABILITY DENSITY FUNCTION: the equation describing a continuous probability distribution is called a probability density fun
+        15.2 NORMAL DISTIBUTION/Gaussian dist.:
+        15.3 CENTRAL LIMIT THEOREM:
+  16 TYPE OF PROBABILITY
+          16.1 MARGINAL PROBABILITY:accurance of single event
+          16.2 JOINT PROBABILITY:two events at a time
+          16.3 CONDITIONAL PROBABILITY:currrent event probability based on privious event
+          
+          USE CASE FOR 16
+          
+   18 BAYES THEOREM(USED IN SPAM FILTERING)
+   
+     
